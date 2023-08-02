@@ -36,5 +36,6 @@ In addition to technical expertise, the following soft skills were utilized to e
 * Systematic Approach to Report Building: Developing a systematic plan for report creation, ensuring consistent and organized results.
 
   Links to file:
-  *https://github.com/Shivani-1996/Sales-Analytics-Project-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
-  *  
+  * https://github.com/Shivani-1996/Sales-Analytics-Project-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+  * https://github.com/Shivani-1996/Sales-Analytics-Project-Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf
+  *   
