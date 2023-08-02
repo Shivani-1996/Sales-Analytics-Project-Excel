@@ -28,8 +28,7 @@ Understanding customer preferences and behavior helps businesses negotiate deals
 Sales data analysis can reveal promising markets or countries with high demand for products/services. This insight can guide businesses in expanding their operations to new locations strategically.
 
 #### Links to Reports
-Customer Performance Report
-
+[Customer Performance Report](https://github.com/Shivani-1996/Sales-Analytics-Project-Excel/blob/main/Customer%20Performance%20Report.pdf)
 Market Performance and Sales Targets Comparison
 
 With these reports, businesses can make data-driven decisions, optimize their sales strategies, and achieve sustainable growth.
