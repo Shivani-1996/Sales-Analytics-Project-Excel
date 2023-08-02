@@ -17,7 +17,7 @@ Analyzing sales data is essential for several reasons:
 #### Identifying Sales Patterns: 
 Sales data analysis helps to identify patterns in customer behavior, seasonal trends, and product preferences. This knowledge allows businesses to optimize their sales strategies for better results.
 ##### Tracking Key Performance Indicators (KPIs):
-By tracking KPIs like sales revenue, customer acquisition cost, customer lifetime value, and conversion rates, companies can measure their performance and progress towards their goals.
+By tracking KPIs like sales revenue, customer acquisition cost, customer lifetime value, and conversion rates, companies can measure their performance and progress toward their goals.
 #### Role of Reports
 The reports generated in this project serve multiple purposes:
 #### Determining Effective Customer Discounts:
@@ -29,8 +29,7 @@ Sales data analysis can reveal promising markets or countries with high demand f
 
 #### Links to Reports
 [Customer Performance Report](https://github.com/Shivani-1996/Sales-Analytics-Project-Excel/blob/main/Customer%20Performance%20Report.pdf)
-Market Performance and Sales Targets Comparison
+[Market Performance and Sales Targets Comparison](https://github.com/Shivani-1996/Sales-Analytics-Project-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 With these reports, businesses can make data-driven decisions, optimize their sales strategies, and achieve sustainable growth.
 
-This Sales Report is part of the "Excel-Sales_Analysis" project by Kirandeep Marala. For more details and the complete project, please refer to the repository mentioned above.
